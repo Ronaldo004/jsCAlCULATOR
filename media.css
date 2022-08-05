@@ -1,0 +1,11 @@
+@media only screen and (max-width:807px){
+
+    header>h1{
+        height: 6rem;
+        font-size: 2rem;
+       margin-top:3rem;
+    }
+    #calc{
+        height: fit-content;
+    }
+}
